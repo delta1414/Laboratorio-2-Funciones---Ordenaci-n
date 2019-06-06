@@ -1,0 +1,6 @@
+int capelements(){//Captura de valores
+	int x;//Variable local para guardad el valor capturado
+	printf("Digite valor \n");
+	scanf("%i",&x);//Se guarda el valor
+	return(x);//Valor de retorno
+}
